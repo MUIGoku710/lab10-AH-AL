@@ -1,3 +1,7 @@
+# https://github.com/MUIGoku710/lab10-AH-AL
+# Partner 1: Allison Lowe
+# Partner 2: Ardens Hilaire
+
 from calculator import *
 import unittest
 
