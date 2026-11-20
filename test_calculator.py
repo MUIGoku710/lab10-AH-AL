@@ -1,3 +1,6 @@
+# Partner 1: Allison Lowe
+# Partner 2: Ardens Hilaire
+
 from calculator import *
 import unittest
 
